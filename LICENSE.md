@@ -1,4 +1,4 @@
-Copyrights
+Copyrights:
 The font PostFinance Grotesk and the corresponding font software ("Font Software") were developed by Nouvelle Noire GmbH (Zurich) for PostFinance AG ("PostFinance"). 
 PostFinance makes this font software available to you exclusively for the fulfilment of the order placed by PostFinance based on a corresponding sublicensing authorisation.
 I hereby confirm for myself and our agency that I will use the font software exclusively for the purposes necessary to fulfil the order placed by PostFinance, 
